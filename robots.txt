@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nagaqayuwasa.pages.dev/sitemap.xml
